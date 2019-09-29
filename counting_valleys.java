@@ -1,5 +1,5 @@
 /*
-Given Gary's sequence of up and down steps during his last hike, find and print the number of valleys he walked through.
+[HackerRank] : Given Gary's sequence of up and down steps during his last hike, find and print the number of valleys he walked through.
 */
 
 // Complete the countingValleys function below.
